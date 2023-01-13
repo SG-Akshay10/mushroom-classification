@@ -1,6 +1,11 @@
 # Mushroom Classification
 Implementation of Logistic Regression, Naive Bayes model and K-nearest neighbour Model using sklearn libraries
 
+# Problem Statement : 
+
+![image](https://user-images.githubusercontent.com/83088512/212377319-404dd284-e4ac-4149-8889-cac3a61196d4.png)
+
+
 # Logistic Regression :
 
 * Logistic regression is a type of supervised learning algorithm used for classification problems. It is a linear model that is used to predict a binary outcome (1 / 0, Yes / No, True / False) given a set of independent variables.
